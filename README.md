@@ -138,4 +138,31 @@ such that stakeholders can unlock insights and enable data driven decision makin
 **Executive View**
 ![Executive](https://github.com/Sravanthi-Duddeti/Business_Insights_360/assets/128029018/ac2d9399-3af8-46fd-b661-fd2fbf5d4751)
 
+**Technical Skills :**
+Connecting to various data sources, such as databases, Excel.
+
+Data cleansing, transformation, and shaping using Power Query Editor.
+
+Creating relationships between tables.
+
+Defining calculated columns and measures.
+
+Understanding DAX (Data Analysis Expressions) language for custom calculations.
+
+Creating interactive visualizations.
+
+Utilizing custom visuals and custom themes.
+
+Creating KPIs.
+
+**Soft Skills:**
+
+ Refined understanding of P&L statements.
+ 
+ Designing user-centric reports with empathy in mind.
+ 
+ Understanding the demands of stakeholders and incorporating them within the dashboards
+ 
+ Learned the importance of asking the right kind of questions.
+
 
