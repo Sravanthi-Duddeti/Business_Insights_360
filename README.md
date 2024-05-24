@@ -116,6 +116,8 @@ such that stakeholders can unlock insights and enable data driven decision makin
 
 
 **Data Model**
+![model](https://github.com/Sravanthi-Duddeti/Business_Insights_360/assets/128029018/86a13511-437a-4d91-92c1-8d3b047ed2ad)
+
 
 **Home Page**
 ![Home](https://github.com/Sravanthi-Duddeti/Business_Insights_360/assets/128029018/386e7406-cf68-4955-b847-d1d62f91ef53)
