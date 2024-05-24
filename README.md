@@ -12,10 +12,15 @@ Hence, the company prioritized on-boarding data analytics and to make data drive
 
 **Tech stacks**
 1.SQL
+
 2.PowerBi Desktop
+
 3.Excel
+
 4.DAX language
+
 5.DAX studio (for optimizing the report)
+
 6.Project charter file
 
 **Dataset Understanding.**
