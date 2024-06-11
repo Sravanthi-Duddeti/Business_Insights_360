@@ -1,4 +1,6 @@
 # Business_Insights_360
+![@reallygreatsite (3)](https://github.com/Sravanthi-Duddeti/Business_Insights_360/assets/128029018/6adf22ac-d7ae-45aa-ab58-11ef33a14435)
+
 Link to Live Interactive DashBoard: https://shorturl.at/1rzAF
 
 **Project Overview**
